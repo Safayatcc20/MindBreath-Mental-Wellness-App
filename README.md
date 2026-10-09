@@ -30,11 +30,11 @@ A mental wellness application featuring guided breathing exercises, interactive 
 
 | Home Page                     | Dashboard            |
 | ----------------------------- | --------------------------- |
-| ![Home](https://github.com/user-attachments/assets/c7207d9a-ce54-49b8-b8bd-d61037ed1dae) | ![Men](https://github.com/user-attachments/assets/10ae6264-464f-494e-9753-81226ad75867) |
+| ![Home](https://github.com/user-attachments/assets/c7207d9a-ce54-49b8-b8bd-d61037ed1dae) | ![Dashboard](https://github.com/user-attachments/assets/10ae6264-464f-494e-9753-81226ad75867) |
 
 | Games                         | Breathe              |
 | ------------------------------- | ----------------------------- |
-| ![Women](https://github.com/user-attachments/assets/f7be9598-1004-4272-bc6e-13e6b710e616") | ![Kids](https://github.com/user-attachments/assets/96e1ad9b-235e-439c-ba11-8a73db4b38b9) |
+| ![Games](https://github.com/user-attachments/assets/f7be9598-1004-4272-bc6e-13e6b710e616) | ![Breath](https://github.com/user-attachments/assets/96e1ad9b-235e-439c-ba11-8a73db4b38b9) |
 
 
 ### User System
