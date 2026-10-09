@@ -26,13 +26,13 @@ A mental wellness application featuring guided breathing exercises, interactive 
 - Downloadable reports with complete wellness history
 - Activity breakdown and mood trends
 - Game performance analysis
-## Screenshots
+## Interface Preview
 
-| Home Page                     | Dashboard            |
+| Home & Overview                     | User Dashboard            |
 | ----------------------------- | --------------------------- |
 | ![Home](https://github.com/user-attachments/assets/c7207d9a-ce54-49b8-b8bd-d61037ed1dae) | ![Dashboard](https://github.com/user-attachments/assets/10ae6264-464f-494e-9753-81226ad75867) |
 
-| Games                         | Breathe              |
+| Interactive Wellness Games                         | Guided Breathing Exercises              |
 | ------------------------------- | ----------------------------- |
 | ![Games](https://github.com/user-attachments/assets/f7be9598-1004-4272-bc6e-13e6b710e616) | ![Breath](https://github.com/user-attachments/assets/96e1ad9b-235e-439c-ba11-8a73db4b38b9) |
 
